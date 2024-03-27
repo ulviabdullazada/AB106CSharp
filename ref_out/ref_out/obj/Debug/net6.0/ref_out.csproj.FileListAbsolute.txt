@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\bin\Debug\net6.0\ref_out.exe
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\bin\Debug\net6.0\ref_out.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\bin\Debug\net6.0\ref_out.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\bin\Debug\net6.0\ref_out.dll
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\bin\Debug\net6.0\ref_out.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.dll
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\refint\ref_out.dll
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref_out.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\ref_out\ref_out\obj\Debug\net6.0\ref\ref_out.dll
