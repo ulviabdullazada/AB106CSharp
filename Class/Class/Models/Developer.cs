@@ -1,7 +1,11 @@
 ﻿namespace Class.Models
 {
-    class Developer : Employee
+    class Developer
     {
-        public string[] Languages;
+        public string WorkingCompany;
+        //public Developer()
+        //{
+        //    Console.WriteLine("Developer created");
+        //}
     }
 }

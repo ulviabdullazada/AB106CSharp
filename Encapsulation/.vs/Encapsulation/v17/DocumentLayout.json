@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\encapsulation\\encapsulation\\models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\encapsulation\\encapsulation\\models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\encapsulation\\encapsulation\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1113E3-A7E4-4655-AB22-F11E76028D79}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Models\\Tesla.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Models\\Tesla.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Models\\Tesla.cs",
+              "RelativeToolTip": "Encapsulation\\Models\\Tesla.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:09:34.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Models\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Models\\ElectricCar.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Models\\ElectricCar.cs",
+              "RelativeToolTip": "Encapsulation\\Models\\ElectricCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:08:17.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Models\\Car.cs",
+              "RelativeToolTip": "Encapsulation\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:06:08.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwCwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T04:41:10.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

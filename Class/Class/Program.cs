@@ -1,4 +1,5 @@
 ﻿using Class.Models;
+using System.ComponentModel.Design;
 
 namespace Class
 {
@@ -51,15 +52,18 @@ namespace Class
             //    std.PrintInfo();
             //}
             //Console.WriteLine(dev.Name);
-            Person azar = new Person { Name = "Azar", Surname = "Osmanli" };
-            Student fuad = new Student("Fuad", "Mammadov", 20);
-            Employee anar = new Employee { Name = "Anar", Surname = "Amanli", Age = 19 };
-            Developer rauf = new Developer { Name = "Rauf", Surname = "Dostuyev", Age = 21, Languages = new string[0] };
-
-            azar.Print();
-            fuad.Print();
-            anar.Print();
-            rauf.Print();
+            //Person azar = new Person { Name = "Azar", Surname = "Osmanli" };
+            //Student fuad = new Student("Fuad", "Mammadov", 20);
+            //Employee anar = new Employee { Name = "Anar", Surname = "Amanli", Age = 19 };
+            //Developer rauf = new Developer { Name = "Rauf", Surname = "Dostuyev", Age = 21, Languages = new string[0] };
+            Developer dev = new Developer();
+            Person p = new Person("Samir", "Kerimov");
+            Employee emp = new Employee("Ali", "Shukurov");
+            Console.WriteLine(emp.Name);
+            //azar.Print();
+            //fuad.Print();
+            //anar.Print();
+            //rauf.Print();
         }
     }
 }

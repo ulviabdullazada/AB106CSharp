@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\bin\Debug\net6.0\ClassEncapsulation.exe
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\bin\Debug\net6.0\ClassEncapsulation.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\bin\Debug\net6.0\ClassEncapsulation.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\bin\Debug\net6.0\ClassEncapsulation.dll
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\bin\Debug\net6.0\ClassEncapsulation.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.dll
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\refint\ClassEncapsulation.dll
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ClassEncapsulation.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\ClassEncapsulation\ClassEncapsulation\obj\Debug\net6.0\ref\ClassEncapsulation.dll
