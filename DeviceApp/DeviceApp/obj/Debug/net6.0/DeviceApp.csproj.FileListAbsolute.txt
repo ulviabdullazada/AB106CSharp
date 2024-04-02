@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\bin\Debug\net6.0\DeviceApp.exe
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\bin\Debug\net6.0\DeviceApp.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\bin\Debug\net6.0\DeviceApp.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\bin\Debug\net6.0\DeviceApp.dll
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\bin\Debug\net6.0\DeviceApp.pdb
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.dll
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\refint\DeviceApp.dll
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.pdb
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\DeviceApp.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\DeviceApp\DeviceApp\obj\Debug\net6.0\ref\DeviceApp.dll

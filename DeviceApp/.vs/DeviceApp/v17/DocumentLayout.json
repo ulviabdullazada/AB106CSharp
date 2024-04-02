@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\deviceapp\\deviceapp\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|solutionrelative:deviceapp\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\deviceapp\\deviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|solutionrelative:deviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\deviceapp\\deviceapp\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|solutionrelative:deviceapp\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\deviceapp\\deviceapp\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD09FB0-E0D8-4641-89E7-0A9959A7E533}|DeviceApp\\DeviceApp.csproj|solutionrelative:deviceapp\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "DeviceApp\\Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Models\\Laptop.cs",
+              "RelativeToolTip": "DeviceApp\\Models\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:59:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Models\\Mobile.cs",
+              "RelativeDocumentMoniker": "DeviceApp\\Models\\Mobile.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Models\\Mobile.cs",
+              "RelativeToolTip": "DeviceApp\\Models\\Mobile.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:59:36.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "DeviceApp\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Models\\Device.cs",
+              "RelativeToolTip": "DeviceApp\\Models\\Device.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:46:39.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Program.cs",
+              "RelativeDocumentMoniker": "DeviceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DeviceApp\\DeviceApp\\Program.cs",
+              "RelativeToolTip": "DeviceApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:37:47.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

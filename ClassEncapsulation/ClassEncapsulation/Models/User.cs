@@ -37,7 +37,7 @@ namespace ClassEncapsulation.Models
         {
             get
             {
-                return _surname;
+                return _surname.Substring(0,2) + "****" + _surname.Substring(_surname.Length-1);
             }
             set
             {
@@ -64,7 +64,7 @@ namespace ClassEncapsulation.Models
                 if (value.Length>=8 && CheckLower(value) && CheckUpper(value) && CheckDigit(value))
                 {
                     _password = value;
-                    Console.WriteLine(  _password);
+                    Console.WriteLine(_password);
                 }
                 else
                 {

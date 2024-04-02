@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\bin\Debug\net6.0\PropertyTask.exe
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\bin\Debug\net6.0\PropertyTask.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\bin\Debug\net6.0\PropertyTask.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\bin\Debug\net6.0\PropertyTask.dll
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\bin\Debug\net6.0\PropertyTask.pdb
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.dll
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\refint\PropertyTask.dll
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.pdb
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\PropertyTask.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\PropertyTask\PropertyTask\obj\Debug\net6.0\ref\PropertyTask.dll

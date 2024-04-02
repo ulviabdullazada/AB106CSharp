@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\bin\Debug\net6.0\CL.exe
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\bin\Debug\net6.0\CL.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\bin\Debug\net6.0\CL.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\bin\Debug\net6.0\CL.dll
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\bin\Debug\net6.0\CL.pdb
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.dll
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\refint\CL.dll
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.pdb
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\CL.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\CL\CL\obj\Debug\net6.0\ref\CL.dll
