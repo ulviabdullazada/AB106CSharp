@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\bin\Debug\net6.0\TupleRecord.exe
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\bin\Debug\net6.0\TupleRecord.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\bin\Debug\net6.0\TupleRecord.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\bin\Debug\net6.0\TupleRecord.dll
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\bin\Debug\net6.0\TupleRecord.pdb
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.dll
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\refint\TupleRecord.dll
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.pdb
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\TupleRecord.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\TupleRecord\TupleRecord\obj\Debug\net6.0\ref\TupleRecord.dll

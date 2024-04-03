@@ -2,7 +2,7 @@
 {
     public class Person
     {
-        internal string Name { get; set; }
-        public string Surname { get; set; }
+        private protected string Name { get; set; }
+        protected internal string Surname { get; set; }
     }
 }
