@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\bin\Debug\net6.0\ManagerSolution.exe
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\bin\Debug\net6.0\ManagerSolution.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\bin\Debug\net6.0\ManagerSolution.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\bin\Debug\net6.0\ManagerSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\bin\Debug\net6.0\ManagerSolution.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\refint\ManagerSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ManagerSolution.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\ManagerSolution\ManagerSolution\obj\Debug\net6.0\ref\ManagerSolution.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\managersolution\\managersolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|solutionrelative:managersolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\managersolution\\managersolution\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|solutionrelative:managersolution\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\managersolution\\managersolution\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|solutionrelative:managersolution\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\managersolution\\managersolution\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E82AAC-1023-42B4-948E-943EFB17FD04}|ManagerSolution\\ManagerSolution.csproj|solutionrelative:managersolution\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Models\\Assistant.cs",
+              "RelativeDocumentMoniker": "ManagerSolution\\Models\\Assistant.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Models\\Assistant.cs",
+              "RelativeToolTip": "ManagerSolution\\Models\\Assistant.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:56:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "ManagerSolution\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Models\\Manager.cs",
+              "RelativeToolTip": "ManagerSolution\\Models\\Manager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:55:28.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ManagerSolution\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Models\\Employee.cs",
+              "RelativeToolTip": "ManagerSolution\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:44:22.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Program.cs",
+              "RelativeDocumentMoniker": "ManagerSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\ManagerSolution\\ManagerSolution\\Program.cs",
+              "RelativeToolTip": "ManagerSolution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:42:42.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
