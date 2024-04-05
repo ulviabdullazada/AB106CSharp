@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.exe
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.dll
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\bin\Debug\net6.0\Polimorphism.pdb
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.dll
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\refint\Polimorphism.dll
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.pdb
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\Polimorphism.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\Polimorphism\Polimorphism\obj\Debug\net6.0\ref\Polimorphism.dll

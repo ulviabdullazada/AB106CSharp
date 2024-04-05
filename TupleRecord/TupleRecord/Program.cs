@@ -1,8 +1,4 @@
-﻿using System;
-using System.Text.RegularExpressions;
-using System.Xml.Linq;
-
-namespace TupleRecord
+﻿namespace TupleRecord
 {
     internal class Program
     {
@@ -78,6 +74,7 @@ namespace TupleRecord
 
     class StudentClass
     {
+        
         public string Name { get; init; }
         public string Surname { get; init; } = "XXX";
     }
