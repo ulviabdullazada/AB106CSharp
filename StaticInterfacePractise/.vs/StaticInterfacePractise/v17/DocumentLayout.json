@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\staticinterfacepractise\\staticinterfacepractise\\models\\codestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|solutionrelative:staticinterfacepractise\\models\\codestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\staticinterfacepractise\\staticinterfacepractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|solutionrelative:staticinterfacepractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\staticinterfacepractise\\staticinterfacepractise\\interfaces\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|solutionrelative:staticinterfacepractise\\interfaces\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\staticinterfacepractise\\staticinterfacepractise\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|solutionrelative:staticinterfacepractise\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\staticinterfacepractise\\staticinterfacepractise\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|solutionrelative:staticinterfacepractise\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\staticinterfacepractise\\staticinterfacepractise\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AE7305-022C-4C7F-8D44-1A4CE12F0F13}|StaticInterfacePractise\\StaticInterfacePractise.csproj|solutionrelative:staticinterfacepractise\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Models\\CodeStudent.cs",
+              "RelativeDocumentMoniker": "StaticInterfacePractise\\Models\\CodeStudent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Models\\CodeStudent.cs",
+              "RelativeToolTip": "StaticInterfacePractise\\Models\\CodeStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:29:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICodeAcademy.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Interfaces\\ICodeAcademy.cs",
+              "RelativeDocumentMoniker": "StaticInterfacePractise\\Interfaces\\ICodeAcademy.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Interfaces\\ICodeAcademy.cs",
+              "RelativeToolTip": "StaticInterfacePractise\\Interfaces\\ICodeAcademy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:27:30.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StaticInterfacePractise\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Models\\Student.cs",
+              "RelativeToolTip": "StaticInterfacePractise\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:01:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "StaticInterfacePractise\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Extensions\\Helper.cs",
+              "RelativeToolTip": "StaticInterfacePractise\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:51:42.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "StaticInterfacePractise\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Models\\Person.cs",
+              "RelativeToolTip": "StaticInterfacePractise\\Models\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:03:54.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Program.cs",
+              "RelativeDocumentMoniker": "StaticInterfacePractise\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\StaticInterfacePractise\\StaticInterfacePractise\\Program.cs",
+              "RelativeToolTip": "StaticInterfacePractise\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:03:28.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

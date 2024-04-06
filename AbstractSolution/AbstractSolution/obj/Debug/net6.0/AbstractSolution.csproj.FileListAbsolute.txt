@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\bin\Debug\net6.0\AbstractSolution.exe
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\bin\Debug\net6.0\AbstractSolution.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\bin\Debug\net6.0\AbstractSolution.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\bin\Debug\net6.0\AbstractSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\bin\Debug\net6.0\AbstractSolution.pdb
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\refint\AbstractSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.pdb
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\AbstractSolution.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\AbstractSolution\AbstractSolution\obj\Debug\net6.0\ref\AbstractSolution.dll

@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\bin\Debug\net6.0\StaticInterfacePractise.exe
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\bin\Debug\net6.0\StaticInterfacePractise.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\bin\Debug\net6.0\StaticInterfacePractise.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\bin\Debug\net6.0\StaticInterfacePractise.dll
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\bin\Debug\net6.0\StaticInterfacePractise.pdb
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.dll
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\refint\StaticInterfacePractise.dll
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.pdb
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\StaticInterfacePractise.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\StaticInterfacePractise\StaticInterfacePractise\obj\Debug\net6.0\ref\StaticInterfacePractise.dll

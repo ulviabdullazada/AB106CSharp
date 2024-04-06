@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\abstractsolution\\abstractsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|solutionrelative:abstractsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\abstractsolution\\abstractsolution\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|solutionrelative:abstractsolution\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\abstractsolution\\abstractsolution\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|solutionrelative:abstractsolution\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\abstractsolution\\abstractsolution\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87978C71-F4BB-4479-856E-9E1AF8C82DF7}|AbstractSolution\\AbstractSolution.csproj|solutionrelative:abstractsolution\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Models\\Bicycle.cs",
+              "RelativeDocumentMoniker": "AbstractSolution\\Models\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Models\\Bicycle.cs",
+              "RelativeToolTip": "AbstractSolution\\Models\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:48:30.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "AbstractSolution\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Models\\Car.cs",
+              "RelativeToolTip": "AbstractSolution\\Models\\Car.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:43:04.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AbstractSolution\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Models\\Vehicle.cs",
+              "RelativeToolTip": "AbstractSolution\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:34:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\AbstractSolution\\AbstractSolution\\Program.cs",
+              "RelativeToolTip": "AbstractSolution\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:33:17.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
