@@ -10,6 +10,7 @@
         {
             Console.WriteLine("Bird ate wheat");
         }
+        //public abstract void Fly();
         public virtual void Fly()
         {
             Console.WriteLine("Bird flied");

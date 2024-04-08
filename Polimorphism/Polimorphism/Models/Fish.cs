@@ -1,14 +1,18 @@
-﻿namespace Polimorphism.Models
+﻿using Polimorphism.Interfaces;
+
+namespace Polimorphism.Models
 {
-    abstract class Fish : Animal
+    abstract class Fish : Animal, ISwim
     {
         public Fish(string name) : base(name)
         {
         }
 
-        public void Swim()
+        public int MaxSwimTime { get; set; } = -1;
+
+        public virtual void Swim()
         {
-            Console.WriteLine("Fish swam");
+            Console.WriteLine("Fish swimming");
         }
     }
 }

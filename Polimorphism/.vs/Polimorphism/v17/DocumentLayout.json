@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\polimorphism\\polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\polimorphism\\polimorphism\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\polimorphism\\polimorphism\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\polimorphism\\polimorphism\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\polimorphism\\polimorphism\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\polimorphism\\polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\polimorphism\\polimorphism\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Models\\Animal.cs",
-              "RelativeDocumentMoniker": "Polimorphism\\Models\\Animal.cs",
-              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Models\\Animal.cs",
-              "RelativeToolTip": "Polimorphism\\Models\\Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T06:47:14.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Program.cs",
               "RelativeDocumentMoniker": "Polimorphism\\Program.cs",
               "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Program.cs",
               "RelativeToolTip": "Polimorphism\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:04:11.155Z",
+              "WhenOpened": "2024-04-05T07:15:43.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMultiply.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Interfaces\\IMultiply.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Interfaces\\IMultiply.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Interfaces\\IMultiply.cs",
+              "RelativeToolTip": "Polimorphism\\Interfaces\\IMultiply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:15:28.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDivide.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Interfaces\\IDivide.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Interfaces\\IDivide.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Interfaces\\IDivide.cs",
+              "RelativeToolTip": "Polimorphism\\Interfaces\\IDivide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:15:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Calculate.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Calculate.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Calculate.cs",
+              "RelativeToolTip": "Polimorphism\\Calculate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:14:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Interfaces\\IAdd.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Interfaces\\IAdd.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Interfaces\\IAdd.cs",
+              "RelativeToolTip": "Polimorphism\\Interfaces\\IAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:14:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Polimorphism\\Polimorphism\\Models\\Animal.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:14:36.043Z",
               "EditorCaption": ""
             }
           ]

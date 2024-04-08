@@ -12,5 +12,13 @@
         {
             return $"{{Name : {Name}}}";
         }
+        public void Test()
+        {
+            Console.WriteLine("Salam");
+        }
+        public void Test(string name)
+        {
+            Console.WriteLine("Salam " + name);
+        }
     }
 }
