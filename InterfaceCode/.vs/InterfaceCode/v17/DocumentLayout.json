@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\interfacecode\\interfacecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|solutionrelative:interfacecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\interfacecode\\interfacecode\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|solutionrelative:interfacecode\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\interfacecode\\interfacecode\\exceptions\\wronginputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|solutionrelative:interfacecode\\exceptions\\wronginputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\interfacecode\\interfacecode\\interfaces\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|solutionrelative:interfacecode\\interfaces\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\interfacecode\\interfacecode\\interfacecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB588DCD-CFEF-431C-A6E0-A4B424E6D62F}|InterfaceCode\\InterfaceCode.csproj|solutionrelative:interfacecode\\interfacecode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrongInputException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Exceptions\\WrongInputException.cs",
+              "RelativeDocumentMoniker": "InterfaceCode\\Exceptions\\WrongInputException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Exceptions\\WrongInputException.cs",
+              "RelativeToolTip": "InterfaceCode\\Exceptions\\WrongInputException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:29:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceCode",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\InterfaceCode.csproj",
+              "RelativeDocumentMoniker": "InterfaceCode\\InterfaceCode.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\InterfaceCode.csproj",
+              "RelativeToolTip": "InterfaceCode\\InterfaceCode.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T09:18:14.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICodeAcademy.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Interfaces\\ICodeAcademy.cs",
+              "RelativeDocumentMoniker": "InterfaceCode\\Interfaces\\ICodeAcademy.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Interfaces\\ICodeAcademy.cs",
+              "RelativeToolTip": "InterfaceCode\\Interfaces\\ICodeAcademy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:18:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "InterfaceCode\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Models\\Student.cs",
+              "RelativeToolTip": "InterfaceCode\\Models\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:14:20.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceCode\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\InterfaceCode\\InterfaceCode\\Program.cs",
+              "RelativeToolTip": "InterfaceCode\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:12:46.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

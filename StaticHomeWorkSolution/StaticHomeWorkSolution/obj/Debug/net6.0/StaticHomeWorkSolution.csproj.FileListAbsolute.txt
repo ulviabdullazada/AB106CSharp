@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\bin\Debug\net6.0\StaticHomeWorkSolution.exe
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\bin\Debug\net6.0\StaticHomeWorkSolution.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\bin\Debug\net6.0\StaticHomeWorkSolution.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\bin\Debug\net6.0\StaticHomeWorkSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\bin\Debug\net6.0\StaticHomeWorkSolution.pdb
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\refint\StaticHomeWorkSolution.dll
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.pdb
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\StaticHomeWorkSolution.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\StaticHomeWorkSolution\StaticHomeWorkSolution\obj\Debug\net6.0\ref\StaticHomeWorkSolution.dll

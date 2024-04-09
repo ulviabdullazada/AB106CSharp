@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\bin\Debug\net6.0\InterfaceCode.exe
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\bin\Debug\net6.0\InterfaceCode.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\bin\Debug\net6.0\InterfaceCode.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\bin\Debug\net6.0\InterfaceCode.dll
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\bin\Debug\net6.0\InterfaceCode.pdb
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.dll
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\refint\InterfaceCode.dll
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.pdb
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\InterfaceCode.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\InterfaceCode\InterfaceCode\obj\Debug\net6.0\ref\InterfaceCode.dll
