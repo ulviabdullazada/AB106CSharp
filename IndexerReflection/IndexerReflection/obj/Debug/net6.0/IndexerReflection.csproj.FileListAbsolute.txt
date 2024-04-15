@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\bin\Debug\net6.0\IndexerReflection.exe
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\bin\Debug\net6.0\IndexerReflection.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\bin\Debug\net6.0\IndexerReflection.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\bin\Debug\net6.0\IndexerReflection.dll
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\bin\Debug\net6.0\IndexerReflection.pdb
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.dll
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\refint\IndexerReflection.dll
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.pdb
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\IndexerReflection.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\IndexerReflection\IndexerReflection\obj\Debug\net6.0\ref\IndexerReflection.dll

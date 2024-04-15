@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\bin\Debug\net6.0\ExceptionPractice.exe
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\bin\Debug\net6.0\ExceptionPractice.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\bin\Debug\net6.0\ExceptionPractice.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\bin\Debug\net6.0\ExceptionPractice.dll
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\bin\Debug\net6.0\ExceptionPractice.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.dll
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\refint\ExceptionPractice.dll
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.pdb
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ExceptionPractice.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\ExceptionPractice\ExceptionPractice\obj\Debug\net6.0\ref\ExceptionPractice.dll
