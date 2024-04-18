@@ -1,0 +1,14 @@
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\bin\Debug\net6.0\DownUpcastingPractise.exe
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\bin\Debug\net6.0\DownUpcastingPractise.deps.json
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\bin\Debug\net6.0\DownUpcastingPractise.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\bin\Debug\net6.0\DownUpcastingPractise.dll
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\bin\Debug\net6.0\DownUpcastingPractise.pdb
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\DownUpcastingPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\DownUpcastingPractise.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\DownUpcastingPractise.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\DownUpcastingPractise.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\DownUpcastingPractise.dll
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\refint\DownUpcastingPractise.dll
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\DownUpcastingPractise.pdb
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\DownUpcastingPractise.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB204\DownUpcastingPractise\DownUpcastingPractise\obj\Debug\net6.0\ref\DownUpcastingPractise.dll
