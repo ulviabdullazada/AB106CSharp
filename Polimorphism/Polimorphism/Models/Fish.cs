@@ -4,6 +4,10 @@ namespace Polimorphism.Models
 {
     abstract class Fish : Animal, ISwim
     {
+        protected Fish()
+        {
+            
+        }
         public Fish(string name) : base(name)
         {
         }

@@ -3,6 +3,9 @@
     abstract class Animal
     {
         public string Name { get; set; }
+        protected Animal()
+        {
+        }
         public Animal(string name)
         {
             Name = name;

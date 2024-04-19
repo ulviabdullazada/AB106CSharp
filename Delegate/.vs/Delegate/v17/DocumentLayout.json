@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A569202A-E69F-445B-B1A0-E283983A5D2A}|Delegate\\Delegate.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A569202A-E69F-445B-B1A0-E283983A5D2A}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Delegate\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:08:30.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

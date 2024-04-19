@@ -4,6 +4,10 @@ namespace Polimorphism.Models
 {
     class Dog : Domestic, ISwim
     {
+        public Dog()
+        {
+            
+        }
         public Dog(string name) : base(name)
         {
         }

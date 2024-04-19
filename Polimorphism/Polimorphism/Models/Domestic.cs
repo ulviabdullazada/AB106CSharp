@@ -2,6 +2,10 @@
 {
     abstract class Domestic : Animal
     {
+        protected Domestic()
+        {
+            
+        }
         public Domestic(string name) : base(name)
         {
         }

@@ -2,6 +2,10 @@
 {
     abstract class Bird : Animal
     {
+        protected Bird()
+        {
+            
+        }
         public Bird(string name) : base(name)
         {
         }

@@ -1,7 +1,11 @@
 ﻿namespace Polimorphism.Models
 {
-    internal class Eagle : Bird
+    internal sealed class Eagle : Bird
     {
+        public Eagle()
+        {
+            
+        }
         public Eagle(string name) : base(name)
         {
         }

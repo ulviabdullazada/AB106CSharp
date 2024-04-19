@@ -5,7 +5,10 @@
         public Shark(string name) : base(name)
         {
         }
-
+        public Shark()
+        {
+            
+        }
         public override void Eat()
         {
             Console.WriteLine("Shark ate little fishes");

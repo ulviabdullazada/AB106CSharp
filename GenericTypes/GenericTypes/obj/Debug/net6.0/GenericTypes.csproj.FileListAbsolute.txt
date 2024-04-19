@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\bin\Debug\net6.0\GenericTypes.exe
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\bin\Debug\net6.0\GenericTypes.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\bin\Debug\net6.0\GenericTypes.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\bin\Debug\net6.0\GenericTypes.dll
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\bin\Debug\net6.0\GenericTypes.pdb
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.dll
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\refint\GenericTypes.dll
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.pdb
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\GenericTypes.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\GenericTypes\GenericTypes\obj\Debug\net6.0\ref\GenericTypes.dll
