@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654002E1-33C7-4811-BE5D-2DC24587D58F}|GenericList\\GenericList.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\genericlist\\genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654002E1-33C7-4811-BE5D-2DC24587D58F}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654002E1-33C7-4811-BE5D-2DC24587D58F}|GenericList\\GenericList.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\genericlist\\genericlist\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654002E1-33C7-4811-BE5D-2DC24587D58F}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654002E1-33C7-4811-BE5D-2DC24587D58F}|GenericList\\GenericList.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\genericlist\\genericlist\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654002E1-33C7-4811-BE5D-2DC24587D58F}|GenericList\\GenericList.csproj|solutionrelative:genericlist\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericList\\GenericList\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "GenericList\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericList\\GenericList\\Models\\Person.cs",
+              "RelativeToolTip": "GenericList\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:12:06.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericList\\GenericList\\Models\\CustomList.cs",
+              "RelativeDocumentMoniker": "GenericList\\Models\\CustomList.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericList\\GenericList\\Models\\CustomList.cs",
+              "RelativeToolTip": "GenericList\\Models\\CustomList.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:41:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericList\\GenericList\\Program.cs",
+              "RelativeDocumentMoniker": "GenericList\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericList\\GenericList\\Program.cs",
+              "RelativeToolTip": "GenericList\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:40:34.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

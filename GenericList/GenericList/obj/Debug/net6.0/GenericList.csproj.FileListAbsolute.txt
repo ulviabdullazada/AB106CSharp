@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\bin\Debug\net6.0\GenericList.exe
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\bin\Debug\net6.0\GenericList.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\bin\Debug\net6.0\GenericList.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\bin\Debug\net6.0\GenericList.dll
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\bin\Debug\net6.0\GenericList.pdb
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.dll
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\refint\GenericList.dll
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.pdb
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\GenericList.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\GenericList\GenericList\obj\Debug\net6.0\ref\GenericList.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r214.01\\Desktop\\AB204\\DownUpcastingPractise\\DownUpcastingPractise\\DownUpcastingPractise.csproj",
+      "projectUniqueName": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DownUpcastingPractise\\DownUpcastingPractise\\DownUpcastingPractise.csproj",
       "projectName": "DownUpcastingPractise",
-      "projectPath": "C:\\Users\\ca.r214.01\\Desktop\\AB204\\DownUpcastingPractise\\DownUpcastingPractise\\DownUpcastingPractise.csproj",
+      "projectPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DownUpcastingPractise\\DownUpcastingPractise\\DownUpcastingPractise.csproj",
       "packagesPath": "C:\\Users\\ca.r214.01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r214.01\\Desktop\\AB204\\DownUpcastingPractise\\DownUpcastingPractise\\obj\\",
+      "outputPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\DownUpcastingPractise\\DownUpcastingPractise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ca.r214.01\\AppData\\Roaming\\NuGet\\NuGet.Config",
