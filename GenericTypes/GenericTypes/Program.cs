@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+﻿using GenericTypes.Models;
 
 namespace GenericTypes
 {
@@ -6,6 +6,21 @@ namespace GenericTypes
     {
         static void Main(string[] args)
         {
+            Group ab106 = new("AB106");
+            Group ab105 = new("AB105");
+
+            List<Student> students = new();
+            students.Add(new Student("Ibrahim", "Khushmandi",20,200, ab106 ));
+            students.Add(new Student("Garib", "Garibzada",20,300, ab106 ));
+            students.Add(new Student("Shahin", "Alizada", 20, 400, ab105));
+            students.Add(new Student("Nurlan", "Abbasov",19,160, ab106 ));
+
+            //students.FindAll(s => s.Group == ab106)
+            //    .ForEach(s => Console.WriteLine(s.Id + " " + s.Name));
+
+            //Burdan yuxarisi taska aiddi.
+
+
             //IntArrayList list = new IntArrayList();
             //list.Add(1);
             //list.Add(12);
@@ -46,25 +61,38 @@ namespace GenericTypes
             //};
             //GenericList<Student> stdArr = new GenericList<Student>(students);
             //stdArr.GetElements();
-            HashSet<int> nums = new HashSet<int>();
-            LinkedList<int> list = new LinkedList<int>();
-            Queue<int> queue = new Queue<int>();
-            queue.Enqueue(1);
-            Dictionary<string, string> dictionary = new Dictionary<string, string>();
-            dictionary.Add("Rauf", "Salam");
+            //HashSet<int> nums = new HashSet<int>();
+            //LinkedList<int> list = new LinkedList<int>();
+            //Queue<int> queue = new Queue<int>();
+            //queue.Enqueue(1);
+            //Dictionary<string, string> dictionary = new Dictionary<string, string>();
+            //dictionary.Add("Rauf", "Salam");
 
-            Console.WriteLine(dictionary["Rauf"]);
+            //Console.WriteLine(dictionary["Rauf"]);
+            //GenericList<int> list = new GenericList<int>();
+            //list.Add(1);
+            //list.Add(2);
+            //list.Add(3);
+            //list.Add(4);
+            //list.Add(5);
+            //list.Add(6);
+            ////Console.WriteLine(list.Any(x=>x%2 ==0));
+            ////Console.WriteLine(list.All(x=>x%2 ==0));
+            //foreach (var item in list.FindAll(x => x % 2 == 0))
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
     }
-    class Student
-    {
-        public string Name { get; set; }
-        public string Surname { get; set; }
-        public override string ToString()
-        {
-            return Name + " " + Surname;
-        }
-    }
+    //class Student
+    //{
+    //    public string Name { get; set; }
+    //    public string Surname { get; set; }
+    //    public override string ToString()
+    //    {
+    //        return Name + " " + Surname;
+    //    }
+    //}
     class GenericList<T>
     {
         T[] _arr;
@@ -101,6 +129,34 @@ namespace GenericTypes
                 Console.WriteLine(_arr[i]);
             }
         }
+        public bool Any(Predicate<T> pred)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                if (pred(_arr[i]))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        public bool All(Predicate<T> pred)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                if (!pred(_arr[i])) return false;
+            }
+            return true;
+        }
+        public IEnumerable<T> FindAll(Predicate<T> pred)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                if (pred(_arr[i])) 
+                    yield return _arr[i];
+            }
+        }
+
     }
     class IntArrayList{
         int[] _arr;

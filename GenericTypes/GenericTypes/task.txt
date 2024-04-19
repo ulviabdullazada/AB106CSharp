@@ -1,0 +1,26 @@
+Student class :
+-Id
+-Name,Surname, Age
+-Credits
+-Group(type) Group
+
+Group class : 
+-Id,
+-Name
+
+Program.cs :
+List<Student> yaradirsiniz.
+AB106 qrupunda oxuyanlari sechib getirirsiniz,
+Crediti 300den az olan telebeleri getirirsiniz.
+Enenevi foreach yazmadan butun telebelerin Ad soyadini yan yana yazin.
+Adinda b herfi olan telebeleri cixarin.
+Telebeleri kredit sayina gore siralayin (Hazir methodu var).
+Umumi kreditlerin cemini tapin.
+18yasindan asagi telebe varmi?
+Butun telebeler en az 200 kredit odeyibmi?
+Kredit sayi cox olan en kicik telebeni tapin.
+
+
+Serbest task: (Vicdanlilar uchun)
+Qruplara gore siralayin.
+

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\generictypes\\generictypes\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|solutionrelative:generictypes\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\generictypes\\generictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|solutionrelative:generictypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\generictypes\\generictypes\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|solutionrelative:generictypes\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\generictypes\\generictypes\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3553889A-9A86-4E82-A0EA-3F21BCEE200A}|GenericTypes\\GenericTypes.csproj|solutionrelative:generictypes\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "task.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\task.txt",
+              "RelativeDocumentMoniker": "GenericTypes\\task.txt",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\task.txt",
+              "RelativeToolTip": "GenericTypes\\task.txt",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-19T06:46:14.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "GenericTypes\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\Models\\Student.cs",
+              "RelativeToolTip": "GenericTypes\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:35:57.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "GenericTypes\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\Models\\Group.cs",
+              "RelativeToolTip": "GenericTypes\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:31:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\Program.cs",
               "RelativeDocumentMoniker": "GenericTypes\\Program.cs",
               "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\GenericTypes\\GenericTypes\\Program.cs",
               "RelativeToolTip": "GenericTypes\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAgwDUAAAArAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T05:59:48.276Z",
               "EditorCaption": ""
