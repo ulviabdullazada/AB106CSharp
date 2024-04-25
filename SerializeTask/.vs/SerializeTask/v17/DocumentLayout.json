@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\SerializeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F57BB31-7FDC-42E9-9402-444E091A9EB9}|SerializeTask\\SerializeTask.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\serializetask\\serializetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F57BB31-7FDC-42E9-9402-444E091A9EB9}|SerializeTask\\SerializeTask.csproj|solutionrelative:serializetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F57BB31-7FDC-42E9-9402-444E091A9EB9}|SerializeTask\\SerializeTask.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\serializetask\\serializetask\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F57BB31-7FDC-42E9-9402-444E091A9EB9}|SerializeTask\\SerializeTask.csproj|solutionrelative:serializetask\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Names.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\SerializeTask\\SerializeTask\\Files\\Names.json",
+              "RelativeDocumentMoniker": "SerializeTask\\Files\\Names.json",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\SerializeTask\\SerializeTask\\Files\\Names.json",
+              "RelativeToolTip": "SerializeTask\\Files\\Names.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T07:32:56.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\SerializeTask\\SerializeTask\\Program.cs",
+              "RelativeDocumentMoniker": "SerializeTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\SerializeTask\\SerializeTask\\Program.cs",
+              "RelativeToolTip": "SerializeTask\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:30:12.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

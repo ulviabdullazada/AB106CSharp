@@ -1,0 +1,15 @@
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\bin\Debug\net6.0\FileIoTask.exe
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\bin\Debug\net6.0\FileIoTask.deps.json
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\bin\Debug\net6.0\FileIoTask.runtimeconfig.json
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\bin\Debug\net6.0\FileIoTask.dll
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\bin\Debug\net6.0\FileIoTask.pdb
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.AssemblyInfoInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.AssemblyInfo.cs
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.sourcelink.json
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.dll
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\refint\FileIoTask.dll
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.pdb
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\FileIoTask.genruntimeconfig.cache
+C:\Users\ca.r214.01\Desktop\AB106\FileIoTask\FileIoTask\obj\Debug\net6.0\ref\FileIoTask.dll
