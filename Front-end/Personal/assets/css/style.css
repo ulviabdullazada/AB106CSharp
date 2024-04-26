@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+nav{
+    
+    height: 50px;
+}
+h1{
+    color: #1e30f3;
+    font-size: 24px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding: 2.5px 5px;
+    font-size: 16px;
+    font-weight: 500;
+    color: gray;
+    cursor: pointer;
+}
+.container{
+    width: 65%;
+    margin-left:17.5%;
+}
+.w-100{
+    width: 100%;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.slogan{
+    font-size: 14px;
+    font-weight: bold;
+    background: linear-gradient(135deg, rgba(30,48,243,1) 7%, rgba(226,30,128,1) 62%);
+    color: #fff;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+.info p{
+    font-weight: 300;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: darkslategrey;
+    margin: 20px 0;
+}
+.info h2{
+    font-size: 48px;
+    background: -webkit-linear-gradient(135deg, rgba(30,48,243,1) 7%, rgba(226,30,128,1) 62%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline;
+    margin: 20px 0;
+}
+.btn-primary{
+    background-color: #1e30f3;
+    color: #fff;
+    margin: 20px 40px 20px 0;
+}
+#profile{
+    height: 90vh;
+}
+#profile .d-flex{
+    height: 100%;
+}
+.btn{
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    border:none;
+    padding: 17.5px 40px;
+    cursor: pointer;
+}
+.btn-secondary{
+    background-color: transparent;
+    border:1px solid #212529;
+    transition: .25s;
+}
+.btn-secondary:hover{
+    background-color: #212529;
+    color: #fff;
+}
+
+.bg{
+    margin-left: 5%;
+    height: 500px;
+    width: 400px;
+    background: linear-gradient(135deg, rgba(30,48,243,1) 7%, rgba(226,30,128,1) 62%);
+    border-radius: 50px;
+    display: block;
+    position: relative;
+}
+.bg img{
+    position: absolute;
+    width: 450px;
+    left: -50px;
+    top: -10px;
+}

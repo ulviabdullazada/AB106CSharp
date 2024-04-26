@@ -1,0 +1,26 @@
+body{
+    background-color: #FFCDEA;
+}
+.nav-link{
+    color: #BC7FCD !important;
+}
+.navbar-brand{
+    color:#86469C;
+}
+.btn-primary{
+    background-color: #86469C;
+}
+.btn-secondary{
+    background-color: #FFCDEA;
+    color:#86469C;
+}
+.btn-primary:hover{
+    background-color: #663078;
+}
+img{
+    object-fit: cover;
+}
+.rating{
+    background-color: rgba(243, 206, 19,.6);
+    border-radius: 7.5px;
+}
