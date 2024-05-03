@@ -92,5 +92,10 @@ namespace AdoNET
                 MessageBox.Show("Gözlənilməz xəta baş verdi");
             }
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
