@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\assets\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\assets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\arrow-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\arrow-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\call-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\img-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\img-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\img-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\img-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\map-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\twitter-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\wwwroot\\assets\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FiuApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FiuApp.props",
+      "PackagePath": "build\\FiuApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FiuApp.props",
+      "PackagePath": "buildMultiTargeting\\FiuApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FiuApp.props",
+      "PackagePath": "buildTransitive\\FiuApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

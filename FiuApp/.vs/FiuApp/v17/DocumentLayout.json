@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\fiuapp\\fiuapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|solutionrelative:fiuapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\fiuapp\\fiuapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|solutionrelative:fiuapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\fiuapp\\fiuapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|solutionrelative:fiuapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\fiuapp\\fiuapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|solutionrelative:fiuapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\fiuapp\\fiuapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|solutionrelative:fiuapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\fiuapp\\fiuapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|solutionrelative:fiuapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|c:\\users\\ca.r214.01\\desktop\\ab106\\fiuapp\\fiuapp\\fiuapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{763A6EB8-CFBA-4480-808F-8FC186099F42}|FiuApp\\FiuApp.csproj|solutionrelative:fiuapp\\fiuapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "FiuApp\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "FiuApp\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:39:05.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FiuApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FiuApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:28:00.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FiuApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FiuApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:20:51.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FiuApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FiuApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAADgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:11:25.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FiuApp",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\FiuApp.csproj",
+              "RelativeDocumentMoniker": "FiuApp\\FiuApp.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\FiuApp.csproj",
+              "RelativeToolTip": "FiuApp\\FiuApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T09:09:53.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FiuApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FiuApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:57:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Program.cs",
+              "RelativeDocumentMoniker": "FiuApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\FiuApp\\FiuApp\\Program.cs",
+              "RelativeToolTip": "FiuApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:54:51.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
