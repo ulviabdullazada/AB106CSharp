@@ -1,6 +1,4 @@
-﻿using Microsoft.CodeAnalysis.CSharp.Syntax;
-
-namespace Pronia.Extensions;
+﻿namespace Pronia.Extensions;
 public static class FileExtension
 {
     public static bool IsValidType(this IFormFile file, string type)

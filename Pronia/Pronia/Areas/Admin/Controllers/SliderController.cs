@@ -12,13 +12,16 @@ namespace Pronia.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             var data = await _context.Sliders
-            .Select(s => new GetSliderVM
+            .Select(s => new GetSliderAdminVM
             {
                 Discount = s.Discount,
                 Id = s.Id,
                 ImageUrl = s.ImageUrl,
                 Subtitle = s.Subtitle,
-                Title = s.Title
+                Title = s.Title,
+                IsDeleted = s.IsDeleted,
+                CreatedTime = s.CreatedTime.ToString("dd MMM yyyy HH:mm:ss"),
+                UpdatedTime = s.UpdatedTime.Year > 1 ? s.UpdatedTime.ToString("dd MMM yyyy HH:mm:ss") : ""
             }).ToListAsync();
             return View(data);
         }
@@ -36,9 +39,7 @@ namespace Pronia.Areas.Admin.Controllers
             Slider slider = new Slider
             {
                 Discount = vm.Discount,
-                CreatedTime = DateTime.Now,
                 ImageUrl = vm.ImageUrl,
-                IsDeleted = false,
                 Subtitle = vm.Subtitle,
                 Title = vm.Title,
             };
@@ -85,5 +86,14 @@ namespace Pronia.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
 
         }
+        public async Task<IActionResult> ChangeVisiblity(int id)
+        {
+            var data = await _context.Sliders.FindAsync(id);
+            if (data == null) return NotFound("Məlumat tapılmadı");
+            data.IsDeleted = !data.IsDeleted;
+            await _context.SaveChangesAsync();
+            return Ok(data);
+        }
+       
     }
 }

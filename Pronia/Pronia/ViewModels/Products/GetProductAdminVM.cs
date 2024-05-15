@@ -9,4 +9,7 @@ public class GetProductAdminVM
     public int StockCount { get; set; }
     public string ImageUrl { get; set; }
     public float Raiting { get; set; }
+    public string Categories { get; set; }
+    public string CreatedTime { get; set; }
+    public string UpdatedTime { get; set; }
 }

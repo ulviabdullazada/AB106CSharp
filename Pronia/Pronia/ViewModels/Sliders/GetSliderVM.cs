@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace Pronia.ViewModels.Sliders
+﻿namespace Pronia.ViewModels.Sliders
 {
     public class GetSliderVM
     {

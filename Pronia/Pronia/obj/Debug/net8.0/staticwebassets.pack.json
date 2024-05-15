@@ -3225,8 +3225,16 @@
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
     },
     {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\arkslce3.c1f.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\arkslce3.c1f.jpeg"
+    },
+    {
       "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\eew1xsvl.55h.jpg",
       "PackagePath": "staticwebassets\\imgs\\products\\eew1xsvl.55h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\fx4l5dih.yzg.jpg",
+      "PackagePath": "staticwebassets\\imgs\\products\\fx4l5dih.yzg.jpg"
     },
     {
       "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\glbgh5qi.kyq.jpg",
@@ -3237,8 +3245,28 @@
       "PackagePath": "staticwebassets\\imgs\\products\\jdtbnwqj.x0j.jpg"
     },
     {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\qmjfujwi.1dd.jpg",
+      "PackagePath": "staticwebassets\\imgs\\products\\qmjfujwi.1dd.jpg"
+    },
+    {
       "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\t15fgxej.nzj.jpg",
       "PackagePath": "staticwebassets\\imgs\\products\\t15fgxej.nzj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\vi3kewxe.4hq.jpg",
+      "PackagePath": "staticwebassets\\imgs\\products\\vi3kewxe.4hq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\wzav3ktk.gju.jpg",
+      "PackagePath": "staticwebassets\\imgs\\products\\wzav3ktk.gju.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\xbj0p33a.3s3.jfif",
+      "PackagePath": "staticwebassets\\imgs\\products\\xbj0p33a.3s3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.01\\Desktop\\AB106\\Pronia\\Pronia\\wwwroot\\imgs\\products\\xqrv2uhx.n34.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\products\\xqrv2uhx.n34.jpeg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssets.props",
