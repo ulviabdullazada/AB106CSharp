@@ -1,7 +1,10 @@
+using Microsoft.EntityFrameworkCore;
 using Pronia.DataAccesLayer;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<ProniaContext>();
+builder.Services.AddDbContext<ProniaContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+
+
 var app = builder.Build();
 
 app.UseStaticFiles();

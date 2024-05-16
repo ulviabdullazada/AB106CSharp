@@ -6,7 +6,7 @@ namespace Pronia.DataAccesLayer
 {
     public class ProniaContext : DbContext
     {
-        public ProniaContext(DbContextOptions options) : base(options)
+        public ProniaContext(DbContextOptions<ProniaContext> options) : base(options)
         {
         }
         public DbSet<Category> Categories { get; set; }
@@ -30,10 +30,10 @@ namespace Pronia.DataAccesLayer
             };
             return base.SaveChangesAsync(cancellationToken);
         }
-        protected override void OnConfiguring(DbContextOptionsBuilder options)
-        {
-            options.UseSqlServer("Server=CA-R214-PC03\\SQLEXPRESS;Database=AB106Pronia;Trusted_Connection=true;TrustServerCertificate=True");
-            base.OnConfiguring(options);
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder options)
+        //{
+        //    options.UseSqlServer("Server=CA-R214-PC03\\SQLEXPRESS;Database=AB106Pronia;Trusted_Connection=true;TrustServerCertificate=True");
+        //    base.OnConfiguring(options);
+        //}
     }
 }
