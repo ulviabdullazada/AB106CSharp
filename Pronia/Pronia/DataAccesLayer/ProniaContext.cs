@@ -1,10 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Pronia.Models;
 
 namespace Pronia.DataAccesLayer
 {
-    public class ProniaContext : DbContext
+    public class ProniaContext : IdentityDbContext
     {
         public ProniaContext(DbContextOptions<ProniaContext> options) : base(options)
         {
@@ -13,27 +14,27 @@ namespace Pronia.DataAccesLayer
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<AppUser> AppUsers { get; set; }
         //public DbSet<ProductCategory> ProductCategories { get; set; }
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
             foreach (var entry in ChangeTracker.Entries())
             {
-                switch (entry.State){
-                    case EntityState.Added:
-                        ((BaseEntity)entry.Entity).CreatedTime = DateTime.Now;
-                        ((BaseEntity)entry.Entity).IsDeleted = false;
-                        break;
-                    case EntityState.Modified:
-                        ((BaseEntity)entry.Entity).UpdatedTime = DateTime.Now;
-                        break;
+                if (entry.Entity is BaseEntity entity)
+                {
+                    switch (entry.State)
+                    {
+                        case EntityState.Added:
+                            entity.CreatedTime = DateTime.Now;
+                            entity.IsDeleted = false;
+                            break;
+                        case EntityState.Modified:
+                            entity.UpdatedTime = DateTime.Now;
+                            break;
+                    }
                 }
             };
             return base.SaveChangesAsync(cancellationToken);
         }
-        //protected override void OnConfiguring(DbContextOptionsBuilder options)
-        //{
-        //    options.UseSqlServer("Server=CA-R214-PC03\\SQLEXPRESS;Database=AB106Pronia;Trusted_Connection=true;TrustServerCertificate=True");
-        //    base.OnConfiguring(options);
-        //}
     }
 }

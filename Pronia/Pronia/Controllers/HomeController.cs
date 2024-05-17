@@ -17,6 +17,7 @@ namespace Pronia.Controllers
         }
         public async Task<IActionResult> Index()
         {
+            var a = User;
             var sliders = await _context.Sliders
                 .Where(x => !x.IsDeleted)
                 .Select(s => new GetSliderVM

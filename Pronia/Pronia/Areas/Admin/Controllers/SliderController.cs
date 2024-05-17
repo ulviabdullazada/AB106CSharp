@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.DataAccesLayer;
 using Pronia.Models;
@@ -26,6 +27,7 @@ namespace Pronia.Areas.Admin.Controllers
             return View(data);
         }
         [HttpGet]
+        [Authorize]
         public IActionResult Create()
         {
             return View();

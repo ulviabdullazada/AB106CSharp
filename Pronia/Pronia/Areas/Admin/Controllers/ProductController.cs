@@ -7,11 +7,15 @@ using Pronia.Models;
 using Pronia.ViewModels.Products;
 using System.Text;
 using Pronia.Extensions;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Pronia.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin")]
+
 public class ProductController(ProniaContext _context, IWebHostEnvironment _env) : Controller
 {
+    //[Authorize(Roles = "Admin, Moderator")]
     public async Task<IActionResult> Index()
 	{
         return View(await _context.Products
@@ -31,6 +35,7 @@ public class ProductController(ProniaContext _context, IWebHostEnvironment _env)
             })
             .ToListAsync());
     }
+    //[Authorize(Roles = "Admin, Moderator")]
     public async Task<IActionResult> Create()
     {
         ViewBag.Categories = await _context.Categories
@@ -116,6 +121,8 @@ public class ProductController(ProniaContext _context, IWebHostEnvironment _env)
         return RedirectToAction(nameof(Index));
     }
 
+
+    //[Authorize(Roles = "Admin")]
 
     //public async Task<IActionResult> Delete(int? id)
     //{

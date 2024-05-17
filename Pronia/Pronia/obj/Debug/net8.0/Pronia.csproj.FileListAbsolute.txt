@@ -255,3 +255,9 @@ C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\runtimes\win-x6
 C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ca.r214.01\Desktop\AB106\Pronia\Pronia\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
