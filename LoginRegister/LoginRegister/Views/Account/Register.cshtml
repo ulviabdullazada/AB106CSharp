@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+@model AppUser
+<form method="post">
+    <input asp-for="UserName" />
+    <input type="email" asp-for="Email" />
+    <input type="password" asp-for="PasswordHash" />
+    <div asp-validation-summary="ModelOnly"></div>
+    <button>Register</button>
+</form>
+
+

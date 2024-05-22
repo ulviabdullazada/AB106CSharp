@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+@model AppUser
+<form method="post">
+    <input asp-for="UserName" />
+    <input type="password" asp-for="PasswordHash" />
+    <button>Login</button>
+</form>
+
